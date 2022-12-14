@@ -136,3 +136,4 @@ class HCaptcha:
 # a = HCaptcha(sitekey="f5561ba9-8f1e-40ca-9b5b-a0b3f719ef34", host="discord.com", hand_mode=False)
 # print(a.solve())
 # print("Solved In", time.time() - tim, "seconds")
+# for hand mode write true or false
